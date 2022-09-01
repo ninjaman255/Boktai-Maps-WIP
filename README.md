@@ -13,6 +13,11 @@ if I put someone elses work in the repo if they added their names somewhere on t
 if they didnt include who ripped it and what not I apologize if your name doesnt make it on the list here below since ive gathered 
 some over the years without getting who ripped it.
 
+
+
+-Side Note-
+Will add boktai 2 and 3 folders as i have maps to fill into them!
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Special Thanks!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
