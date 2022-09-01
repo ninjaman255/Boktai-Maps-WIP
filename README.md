@@ -18,6 +18,8 @@ some over the years without getting who ripped it.
 -Side Note-
 Will add boktai 2 and 3 folders as i have maps to fill into them!
 
+-As of 9/1/2022 all assets in here were ripped/stitched by me, but this could change at any point and will update ReadMe when it does (No use in re-ripping/stitching maps if someone has already done so)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Special Thanks!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
