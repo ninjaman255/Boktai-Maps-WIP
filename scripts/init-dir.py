@@ -39,14 +39,9 @@ paths = '/Paths'
 dir_dungeons = dir_game + dungeons
 dir_paths = dir_game + paths
 
+# init these to be the same as without field group
 dir_dungeons_field = dir_dungeons
 dir_paths_field = dir_paths
-
-if not os.path.exists(dir_dungeons):
-    os.mkdir(dir_dungeons)
-
-if not os.path.exists(dir_paths):
-    os.mkdir(dir_paths)
 
 
 # init row counter
@@ -68,9 +63,10 @@ with open(tsv_dungeons, 'r', encoding='utf8') as data:
                 
                 if not os.path.exists(dir_game + field):
                     os.mkdir(dir_game + field)
-                
-                if not os.path.exists(dir_dungeons_field):
-                    os.mkdir(dir_dungeons_field)
+            
+            # initialize containing directory
+            if not os.path.exists(dir_dungeons_field):
+                os.mkdir(dir_dungeons_field)
             
             # setup dungeon directory
             if not os.path.exists(dir_dungeons_field + '/' + name):
@@ -105,9 +101,10 @@ with open(tsv_paths, 'r', encoding='utf8') as data:
                 
                 if not os.path.exists(dir_game + field):
                     os.mkdir(dir_game + field)
-                
-                if not os.path.exists(dir_paths_field):
-                    os.mkdir(dir_paths_field)
+            
+            # initialize containing directory
+            if not os.path.exists(dir_paths_field):
+                os.mkdir(dir_paths_field)
             
             # setup pathway directory
             if not os.path.exists(dir_paths_field + '/' + name):
