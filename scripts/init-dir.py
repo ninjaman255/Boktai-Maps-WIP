@@ -1,9 +1,13 @@
 # author: @kodedile
 # ---
-# Initialize folders for each of the dungeons 
-# and for each of the paths provided 
+# Call this script from the root directory
+#   python script/init-dir.py
+# ---
+# Initializes folders for each of the dungeons 
+# and for each of the paths as provided 
 # in the associated game's tsv files
 # ---
+
 
 import os
 import csv
@@ -11,14 +15,14 @@ import csv
 
 # init directory names
 
-dir_game = input("Which game directory? (default: '../Boktai 1') ")
+dir_game = input("Which game directory? (default: 'Boktai 1') ")
 if dir_game == "":
-    dir_game = '../Boktai 1'
+    dir_game = 'Boktai 1'
 
 
 # init tsv filenames
-tsv_dungeons = '../data/' + dir_game + '/dungeons.tsv';
-tsv_paths = '../data/' + dir_game + '/paths.tsv';
+tsv_dungeons = 'data/' + dir_game + '/dungeons.tsv';
+tsv_paths = 'data/' + dir_game + '/paths.tsv';
 
 
 # ask if we should separate folders into map areas
