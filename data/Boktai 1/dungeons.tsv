@@ -1,0 +1,34 @@
+ID	Konami Guide ID	Map Area	Type	EN Name	JP Name	Map Theme	Indoor	Outdoor	Map Style
+0	1	A	Immortal	Fog Castle	霧の城	Castle	Castle	Castle	Straightforward
+1	2	A	Undead	Small Cave	小さな洞窟	Cave	Cave	None	Straightforward
+2	3	A	Undead	Gate of the Dead	死者の門	Tomb	Tomb	None	Elevations
+3	4	A	Undead	Ancient Forest	古き森	Forest	None	Forest	Narrow Paths, Puddles
+4	5	A	Undead	Catacomb	地底の霊墓	Tomb	Tomb	None	Elevations, Bombs
+5	6	A	Undead	Bloodrust Mansion	血錆の館	Mansion	Mansion	Mansion	Darkness, Block Puzzles, Clock Puzzles, Alternate Rooms, Grates
+6	7	B	Undead	Deserted Arsenal	捨てられた武器庫	Tomb	Tomb	None	Blocks
+7	8	B	Undead	Noname Fortress	名も知れぬ砦	Castle	Castle	None	Hidden Traps
+8	9	B	Undead	Death Cliff	死の岩壁	Mountain	Cave	Forest	Elevations
+9	10	B	Undead	Crumbling Mine	朽ちた坑道	Mountain	Cave	None	Fire Obstructions, Solar Tile
+10	11	B	Undead	Stairs of Trial	試練の階段	Mansion	Mansion	None	Darkness, Block Puzzles, Solar Traps
+11	12	B	Undead	Suffering House	苦悶の家	Mansion	Mansion	None	Darkness, Hidden Traps
+12	13	B	Undead	Ruined Cemetary	暴かれた墓地	Cemetary	Tomb	Forest	Narrow Paths, Maze of Treasure
+13	14	B	Undead	Stench Forest	瘴気の森	Forest	None	Forest	Narrow Paths, Maze of Treasure
+14	15	B	Immortal	Firetop Mountain	火吹山	Mountain	Cave	Forest	Fire Obstructions, Block Puzzles, Alternate Rooms, Moving Platforms, Backtracking
+15	16	B	Immortal	Permafrost	永久凍土	Frozen	Frozen	Frozen	Elevations, Hidden Traps, Ice Puzzles, Number Puzzles, Tentacles
+16	-	B	Undead	Azure Sky Tower	蒼空の塔	-	-	-	-
+17	17	C	Undead	Remaining Tower	残された塔	Castle	Castle	None	Straightforward
+18	18	C	Undead	Scar of the Land	大地の傷跡	Cave	Cave	None	Fire Obstructions, Switch Puzzles
+19	19	C	Undead	Delusion Forest	迷いの森	Forest	None	Forest	Narrow Paths, Alternate Rooms
+20	20	C	Undead	Forgotten Tomb	忘れられた墓	Graveyard	Tomb	Forest	Narrow Paths, Elevations
+21	21	C	Undead	Valley of Ice	氷の渓谷	Frozen	Frozen	None	Ice Puzzles, Tentacles
+22	22	C	Undead	Abyss	奈落	Cave	Cave	None	Solar Tile, Block Puzzles
+23	23	C	Immortal	Sol City	太陽都市	Sky	Tech	Sky	Wind, Mirror Puzzles, Tiny Doors, Moving Platforms, Hidden Traps
+24	24	D	Undead	Water Demon's Cage	水魔の檻	Frozen	Frozen	None	Ice Puzzles, Solar Tile, Tentacles
+25	25	D	Undead	Fire Dragon's Grave	火竜の狩場	Mountain	Cave	None	Fire Obstructions, Mirror Puzzles, Moving Platforms
+26	26	D	Undead	Fallen Devil Castle	降魔の城	Castle	Castle	Castle	Mirror Puzzles, Tentacles, Backtracking
+27	27	D	Undead	House of Darkness	闇の棲家	Mansion	Mansion	None	Hidden Traps, Block Puzzles, Backtracking
+28	-	D	Undead	Fire Tower	火の塔	Cave	Cave	None	Fire Obstructions, Alternate Rooms
+29	-	D	Undead	Water Tower	水の塔	Frozen	Frozen	None	Ice Puzzles, Tentacles, Backtracking
+30	-	D	Undead	Wind Tower	風の塔	Sky	Sky	None	Moving Platforms, Mirror Puzzles, Number Puzzles
+31	-	D	Undead	Earth Tower	大地の塔	Mansion	Mansion	None	Darkness, Block Puzzles, Clock Puzzles, Alternate Rooms
+32	28	D	Immortal	Dark Castle	暗黒城	Castle	Mansion	None	Number Puzzles, Solar Tile
